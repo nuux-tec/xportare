@@ -45,11 +45,15 @@
     responsive: {
       0: {
         items: 1,
-        nav: false
+        nav: false,
+        touchDrag: true,
+        mouseDrag: false
       },
       600: {
         items: 1,
-        nav: false
+        nav: false,
+        touchDrag: true,
+        mouseDrag: false
       },
       1000: {
         items: 1,
