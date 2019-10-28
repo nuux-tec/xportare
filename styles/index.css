@@ -153,10 +153,11 @@ header .navbar {
 
 @media (min-width: 768px) {
   header .navbar {
+    background-color: #004727 !important;
     padding-top: 0;
     padding-bottom: 0;
-    background: none !important;
-    position: relative;
+    /* background: none !important; */
+    /* position: relative; */
   }
 }
 
